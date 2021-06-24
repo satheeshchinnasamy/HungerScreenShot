@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HungerRush_POC">
+<!-- <listeners>
+<listener class-name="common_Functions.TestListener"></listener>
+</listeners>  -->
+<test name="LoginTest">
+<classes>
+<class name="testCases.HungerRush_WorkFlow_Validation">
+</class>
+</classes>
+</test>
+</suite>
